@@ -1,0 +1,27 @@
+body{
+    padding:32px;
+    margin:32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+.header{
+      background-color: #3498db;
+      color:white;
+      padding: 30PX;
+      width: 100%;
+      text-align: center;
+      font-size: 100%;
+      color: #f1c40f;
+}
+
+.weatherlist{
+   margin:20px auto;
+   width:50%;
+}
+
+.weather-element{
+    box-shadow:1px 1px 6px #ccc;
+    padding: 12px;
+    margin: 10px 0;
+}
